@@ -26,12 +26,16 @@ Getting Started
 Follow the steps below to set up and run the project:
 
 Clone the repository to your local machine.
-Install the required dependencies by running pip install -r requirements.txt.
-Create a Reddit Developer application to obtain the necessary credentials (client ID, client secret, and user agent). Refer to the PRAW documentation for detailed instructions.
-Configure the MongoDB connection in the code by updating the appropriate variables in the config.py file.
-Update the Reddit credentials in the config.py file.
-Run the main script using python main.py.
 
+Install the required dependencies by running pip install -r requirements.txt.
+
+Create a Reddit Developer application to obtain the necessary credentials (client ID, client secret, and user agent). Refer to the PRAW documentation for detailed instructions.
+
+Configure the MongoDB connection in the code by updating the appropriate variables in the config.py file.
+
+Update the Reddit credentials in the config.py file.
+
+Run the main script using python main.py.
 
 Acknowledgments
 
